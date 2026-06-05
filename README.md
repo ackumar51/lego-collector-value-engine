@@ -17,7 +17,7 @@ The challenge is that none of these metrics tell the full story on their own. A 
 
 ## Pipeline Architecture
 
-![Databricks Lakehouse Pipeline Architecture](https://obj.umiacs.umd.edu/ackumar/lego-pipeline-architecture-databricks.png)
+![Databricks Lakehouse Pipeline Architecture](https://obj.umiacs.umd.edu/ackumar/lego-pipeline-architecture-databricks-final.png)
 
 The project follows the Medallion Architecture with Bronze, Silver, and Gold layers, all backed by Delta Lake.
 
